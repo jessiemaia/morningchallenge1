@@ -1,2 +1,3 @@
-background-image: linear-gradient(45deg, #020005 25%, #161617 25%, #161617 50%, #020005 50%, #020005 75%, #161617 75%, #161617 100%);
-background-size: 56.57px 56.57px;
+#stripes4 {
+background-image: repeating-linear-gradient(45deg, #ccc, #ccc 30px, #dbdbdb 30px, #dbdbdb 60px);
+}
