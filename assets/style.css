@@ -32,3 +32,11 @@ body {
 .yellow {
   background-color: yellow;
 }
+
+.green {
+  background-color: green;
+}
+
+.green:hover {
+  box-shadow: 0px opx 20px 20px rgba(0, 255, 0, 1)
+}
