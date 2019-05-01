@@ -3,7 +3,22 @@ body {
 }
 
 .post{
+  margin: auto;
   width: 20px;
   height: 50px;
   background-color: black;
+}
+
+.light-block {
+  margin: auto;
+  width: 100px;
+  height: 300px;
+  background-color: black;
+}
+
+.light {
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  background-color: white;
 }
