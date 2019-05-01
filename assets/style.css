@@ -40,3 +40,11 @@ body {
 .green:hover {
   box-shadow: 0px 0px 20px 20px rgba(0, 255, 0, .25)
 }
+
+.yellow:hover {
+  box-shadow: 0px 0px 20px 20px rgba(255, 247, 0, 0.25)
+}
+
+.red:hover {
+  box-shadow: 0px 0px 20px 20px rgba(255, 47, 0, 0.25)
+}
